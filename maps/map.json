@@ -213,7 +213,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tavee.softgarden.io"
+                 "value":"https:\/\/www.tavee.de"
                 }],
          "type":"tilelayer",
          "visible":true,
