@@ -3,7 +3,7 @@
     {
       "columns": 17,
       "firstgid": 1,
-      "image": "MazeEli-chunk-1-d000fead.png",
+      "image": "MazeEli-chunk-1-95695a64.png",
       "imageheight": 544,
       "imagewidth": 544,
       "margin": 0,
@@ -455,7 +455,7 @@
     {
       "columns": 9,
       "firstgid": 258,
-      "image": "MazeEli-chunk-2-d000fead.png",
+      "image": "MazeEli-chunk-2-95695a64.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
@@ -2955,7 +2955,7 @@
       "id": 22,
       "name": "no walk",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -5425,7 +5425,7 @@
       "id": 4,
       "name": "start",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -10379,7 +10379,7 @@
           "value": "https://www.wak-lab.org/files/2021/01/achtung.png"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -12861,7 +12861,7 @@
           "value": "fullscreen"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -15338,7 +15338,7 @@
           "value": "https://www.elisabethgymnasium.com/components/com_eventgallery/helpers/image.php?&width=1600&folder=2020_02_TdoT&file=2020_02_00_TdoT_24.jpg"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -17812,10 +17812,10 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "eligym-EG.json#reentry_maze"
+          "value": "https://play.kraut.world/_/global/raw.githubusercontent.com/xXDaKeNnYXx/tavee/master/maps/map.json"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -20289,10 +20289,10 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "maze-win2.json#reentry_maze"
+          "value": "https://play.kraut.world/_/global/raw.githubusercontent.com/xXDaKeNnYXx/tavee/master/maps/map.json"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -22769,7 +22769,7 @@
           "value": "mp3/friedhof.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -25246,7 +25246,7 @@
           "value": "mp3/fantasy_magic_chime_ping.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -27723,7 +27723,7 @@
           "value": "mp3/human_fart_002.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -30200,7 +30200,7 @@
           "value": "mp3/vogel_Eule.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -32677,7 +32677,7 @@
           "value": "mp3/wind1.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -35154,7 +35154,7 @@
           "value": "mp3/monster3.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -37631,7 +37631,7 @@
           "value": "mp3/water_walk.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -40108,7 +40108,7 @@
           "value": "mp3/gravelwalk.mp3"
         }
       ],
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -42578,7 +42578,7 @@
       "id": 15,
       "name": "Maze Boden Unten",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -45048,7 +45048,7 @@
       "id": 16,
       "name": "Maze Boden Oben",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -47518,7 +47518,7 @@
       "id": 1,
       "name": "Maze Layer",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -49988,7 +49988,7 @@
       "id": 3,
       "name": "Deko Bottom",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -52458,7 +52458,7 @@
       "id": 19,
       "name": "Deko Top",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -52470,7 +52470,7 @@
       "name": "floorLayer",
       "objects": [],
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "x": 0,
       "y": 0
     },
@@ -54939,7 +54939,7 @@
       "id": 6,
       "name": "Flying Monsters and Deko Bottom",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
@@ -57409,7 +57409,7 @@
       "id": 18,
       "name": "Flying Monster and Deko Top",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 39,
       "x": 0,
       "y": 0
