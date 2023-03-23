@@ -372,7 +372,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/xXDaKeNnYXx\/tavee\/master\/maps\/Labyrinth\/MazeEli.json"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/xXDaKeNnYXx\/tavee\/master\/maps\/labyrinth\/MazeEli.json"
                 }],
          "type":"tilelayer",
          "visible":true,
