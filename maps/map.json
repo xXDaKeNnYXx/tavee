@@ -689,6 +689,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/workadventure.tavee.de\/view\/Sp\u00fcler.jpg"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"70"
                         }],
                  "type":"tilelayer",
                  "visible":true,
