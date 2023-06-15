@@ -693,7 +693,7 @@
                         {
                          "name":"openWebsiteWidth",
                          "type":"string",
-                         "value":"70"
+                         "value":"30"
                         }],
                  "type":"tilelayer",
                  "visible":true,
